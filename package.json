@@ -1,0 +1,21 @@
+{
+  "name": "SubsVK",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [
+    "telegram",
+    "telegram-bot",
+    "node-js"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "dependencies": {
+    "node-telegram-bot-api": ">=0.20.1"
+  }
+}
